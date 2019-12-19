@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ActivitiesandIntentsDemo</string>
+
+    <!--XML-->
+    <!--activity main-->
+
+    <string name="button_main">Send</string>
+    <string name="second_activity_name">Second Activity</string>
+    <string name="text_header">Message Received</string>
+    <string name="message_hint">Enter Your Message Here</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_reply_hint">Enter Your Reply Here</string>
+    <string name="text_header_reply_received">Reply Received</string>
+</resources>
